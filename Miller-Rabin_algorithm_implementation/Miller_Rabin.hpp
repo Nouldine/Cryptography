@@ -1,3 +1,7 @@
+// Author: Abdoul-Nourou Yigo
+//
+
+
 #include <boost/multiprecision/cpp_int.hpp>
 #include <boost/random/mersenne_twister.hpp>
 #include <boost/random/uniform_int_distribution.hpp>

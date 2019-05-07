@@ -1,3 +1,7 @@
+// Author: Abdoul-Nourou Yigo 
+//
+
+
 
 #include "Miller_Rabin.hpp"
 
